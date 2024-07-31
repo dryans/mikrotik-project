@@ -1,0 +1,21 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^127.0.0",
+    "chromium": "^3.0.3",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "puppeteer": "^22.14.0",
+    "selenium-webdriver": "^4.23.0",
+    "ws": "^7.3.0"
+  }
+}
